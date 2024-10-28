@@ -1,6 +1,6 @@
-![GitHub top language](https://img.shields.io/github/languages/top/anujnairr/cloud-resume?color=purple)
-![GitHub forks](https://img.shields.io/github/forks/anujnairr/cloud-resume?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/anujnairr/cloud-resume?style=social)
+![GitHub top language](https://img.shields.io/github/languages/top/anujnairr/three-tier-eks?color=purple)
+![GitHub forks](https://img.shields.io/github/forks/anujnairr/three-tier-eks?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/anujnairr/three-tier-eks?style=social)
 
 # Three-tier EKS
 

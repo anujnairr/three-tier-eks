@@ -13,7 +13,6 @@ variable "env" {
 
 variable "tags" {
   default = {
-    "Name"        = ""
     "Environment" = "dev"
   }
   description = "A map of tags"

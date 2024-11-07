@@ -55,4 +55,6 @@ jobs:
       #   run: terraform apply -auto-approve tfplan
 
       - name: Test
-        run: echo "${{ github.event.pull_request.head.ref }}"
+        shell: bash
+        run: echo "${{ github.event.pull_request.head.ref }}" \
+          echo "${{ github.event}}"
